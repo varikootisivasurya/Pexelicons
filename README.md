@@ -21,6 +21,10 @@ Pexelicons is a website that offers custom folder icons for Windows, allowing us
 
 ## Getting Started
 
+### Download Icons
+
+Visit the [Pexelicons Website](https://varikootisivasurya.github.io/Pexelicons) to download custom folder icons for your PC.
+
 
 
 ### How to Use
